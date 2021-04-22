@@ -13,9 +13,10 @@
     icon = "linkedin"
     icon_pack = "fa"
     link = "//linkedin.com/in/ankur-patel-690956172/"
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.pngitem.com%2Fpimgs%2Fm%2F32-326086_linkedin-black-icon-png-image-free-download-searchpng.png&imgrefurl=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2Fhbhwxb_linkedin-black-icon-png-image-free-download-searchpng%2F&tbnid=syT9uXTATe12sM&vet=12ahUKEwjG6Nm_2JHwAhUS8IUKHc3kBJwQMygKegUIARDdAQ..i&docid=M71nnqJvp8lQhM&w=860&h=905&q=linkedin%20icon%20png&ved=2ahUKEwjG6Nm_2JHwAhUS8IUKHc3kBJwQMygKegUIARDdAQ
+    
+-   [![linkedin](https://user-images.githubusercontent.com/33151447/115703944-a0831600-a362-11eb-975c-4c8dd1b03e4f.png)[2]
 
-
+[2]: https://www.linkedin.com/in/ankur-patel-690956172
 
 <!---
 AnkurP13/AnkurP13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
