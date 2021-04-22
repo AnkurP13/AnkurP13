@@ -18,6 +18,9 @@
 
 [2]: https://www.linkedin.com/in/ankur-patel-690956172
 
+![image](https://user-images.githubusercontent.com/33151447/115705212-2f446280-a364-11eb-97cc-eba756b7a4d9.png)
+
+
 <!---
 AnkurP13/AnkurP13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
