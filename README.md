@@ -14,7 +14,7 @@
     icon_pack = "fa"
     link = "//linkedin.com/in/ankur-patel-690956172/"
     
--   [![linkedin]![image]![image](https://user-images.githubusercontent.com/33151447/115706624-c52cbd00-a365-11eb-9d64-e0b411978573.png)][2]
+-   [![linkedin]![image](https://user-images.githubusercontent.com/33151447/115707459-b98dc600-a366-11eb-84df-48c031725eb7.png)][2]
 
 [2]: https://www.linkedin.com/in/ankur-patel-690956172
 
