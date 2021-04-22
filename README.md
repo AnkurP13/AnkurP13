@@ -8,26 +8,15 @@
 
 
 - 📫 How to reach me ...
+-   [![linkedin](https://user-images.githubusercontent.com/33151447/115707604-eb069180-a366-11eb-8223-e12ba286dc8f.png)][2]
 
-- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/ankur-patel-690956172/"
-    
--   [![linkedin]![image](https://user-images.githubusercontent.com/33151447/115707604-eb069180-a366-11eb-8223-e12ba286dc8f.png)][2]
+
+
+
+
+
 
 [2]: https://www.linkedin.com/in/ankur-patel-690956172
-
-![image](https://user-images.githubusercontent.com/33151447/115705212-2f446280-a364-11eb-97cc-eba756b7a4d9.png)
-
-![image](https://user-images.githubusercontent.com/33151447/115706197-4899de80-a365-11eb-90f8-e6dff404f424.png)
-
-
-
-![image](https://user-images.githubusercontent.com/33151447/115706052-24d69880-a365-11eb-8779-ce029691d9d8.png)
-
-
-![image](https://user-images.githubusercontent.com/33151447/115706463-957db500-a365-11eb-8820-4427f4c75398.png)
 
 
 
