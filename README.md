@@ -8,10 +8,11 @@
 
 
 - 📫 How to reach me ...
+
 - [[params.social]]
     icon = "linkedin"
     icon_pack = "fa"
-    link = "//linkedin.com/in/Ankurp13"
+    link = "//linkedin.com/in/ankur-patel-690956172/"
 
 
 
